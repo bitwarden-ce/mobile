@@ -57,7 +57,7 @@ namespace Bit.App.Utilities
         {
             return Xamarin.Essentials.Preferences.Get(
                 string.Format(PreferencesStorageService.KeyFormat, Constants.ThemeKey), default(string),
-                !android ? "group.com.8bit.bitwarden" : default(string));
+                !android ? "group.com.8bit.bytegarden" : default(string));
         }
     }
 }

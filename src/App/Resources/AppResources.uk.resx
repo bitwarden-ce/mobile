@@ -427,13 +427,13 @@
     <value>Змінити адресу е-пошти</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Ви можете змінити адресу е-пошти в сховищі на bitwarden.com. Хочете перейти на веб-сайт зараз?</value>
+    <value>Ви можете змінити адресу е-пошти в сховищі на bytegarden.com. Хочете перейти на веб-сайт зараз?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Змінити головний пароль</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Ви можете змінити головний пароль в сховищі на bitwarden.com. Хочете перейти на веб-сайт зараз?</value>
+    <value>Ви можете змінити головний пароль в сховищі на bytegarden.com. Хочете перейти на веб-сайт зараз?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Закрити</value>
@@ -504,7 +504,7 @@
     <value>Імпорт записів</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Ви можете робити масовий імпорт записів зі сховища на bitwarden.com. Хочете перейти на веб-сайт зараз?</value>
+    <value>Ви можете робити масовий імпорт записів зі сховища на bytegarden.com. Хочете перейти на веб-сайт зараз?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Швидкий імпорт ваших записів з інших програм керування паролями.</value>
@@ -683,7 +683,7 @@
     <value>Двохетапна перевірка</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Двохетапна перевірка робить ваш обліковий запис більш захищеним, вимагаючи підтвердження входу з використанням іншого пристрою, наприклад, за допомогою коду безпеки, програми авторизації, SMS, телефонного виклику, або е-пошти. Ви можете увімкнути двохетапну перевірку в сховищі на bitwarden.com. Хочете перейти на веб-сайт зараз?</value>
+    <value>Двохетапна перевірка робить ваш обліковий запис більш захищеним, вимагаючи підтвердження входу з використанням іншого пристрою, наприклад, за допомогою коду безпеки, програми авторизації, SMS, телефонного виклику, або е-пошти. Ви можете увімкнути двохетапну перевірку в сховищі на bytegarden.com. Хочете перейти на веб-сайт зараз?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Розблокування з {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden дозволяє вам надавати доступ до свого сховища іншим за допомогою облікового запису організації. Чи не бажаєте перейти на веб-сайт bitwarden.com, щоб дізнатися більше?</value>
+    <value>Bitwarden дозволяє вам надавати доступ до свого сховища іншим за допомогою облікового запису організації. Чи не бажаєте перейти на веб-сайт bytegarden.com, щоб дізнатися більше?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Експорт сховища</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Ви увійшли як {0} на {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Сховище заблоковано. Введіть головний пароль для продовження.</value>

@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>bitwarden</value>
+    <value>bytegarden</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -378,7 +378,7 @@
     <value>Látogasd meg a weboldalunkat</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>Látogasd meg a weboldalunkat segítség kéréshez, hírekért, küldj nekünk e-mailt és/vagy tanuld meg hogyan használd a bitwarden-t.</value>
+    <value>Látogasd meg a weboldalunkat segítség kéréshez, hírekért, küldj nekünk e-mailt és/vagy tanuld meg hogyan használd a bytegarden-t.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>Weboldal</value>
@@ -400,7 +400,7 @@
     <value>App kiterjesztés</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>A bitwarden kisegítő szolgáltatás használata, mely automatikusan kitölti a bejelentkezési adataidat akár egy app-ban, akár webes felületeken.</value>
+    <value>A bytegarden kisegítő szolgáltatás használata, mely automatikusan kitölti a bejelentkezési adataidat akár egy app-ban, akár webes felületeken.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Automatikus kitöltő szolgáltatás</value>
@@ -409,31 +409,31 @@
     <value>Félreérthető karakterek mellőzése</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>bitwarden alkalmazás</value>
+    <value>bytegarden alkalmazás</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
     <value>The easiest way to add new logins to your vault is from the Bitwarden App Extension. Learn more about using the Bitwarden App Extension by navigating to the "Settings" screen.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Használd a bitwarden automatikus kitöltő szolgáltatását a Safari-ban és más alkalmazásokban.</value>
+    <value>Használd a bytegarden automatikus kitöltő szolgáltatását a Safari-ban és más alkalmazásokban.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
     <value>Bitwarden automatikus kitöltő szolgáltatás</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>A bitwarden kisegítő szolgáltatás használata bejelentkezések automatikus kitöltéséhez.</value>
+    <value>A bytegarden kisegítő szolgáltatás használata bejelentkezések automatikus kitöltéséhez.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>E-mail cím módosítása</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>E-mail címedet a bitwarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
+    <value>E-mail címedet a bytegarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Mesterjelszó módosítása</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Mesterjelszavadat a bitwarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
+    <value>Mesterjelszavadat a bytegarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Bezár</value>
@@ -467,7 +467,7 @@
     <value>Bővítmény engedélyezése</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>A Safari-ban a bitwarden-t a megosztás ikon alatt találod (Tipp: a menü alsó sorában gördítsd jobbra).</value>
+    <value>A Safari-ban a bytegarden-t a megosztás ikon alatt találod (Tipp: a menü alsó sorában gördítsd jobbra).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -480,13 +480,13 @@
     <value>A bejelentkezéseid mostantól könnyen hozzáférhetők a Safari-ból, Chrome-ból és más támogatott alkalmazásból.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>A Safari-ban és a Chrome-ban a bitwarden-t a megosztás ikon alatt találod (Tipp: a menü alsó sorában gördítsd jobbra).</value>
+    <value>A Safari-ban és a Chrome-ban a bytegarden-t a megosztás ikon alatt találod (Tipp: a menü alsó sorában gördítsd jobbra).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>A bővítmény elindításához bökj a bitwarden ikonra a menüben.</value>
+    <value>A bővítmény elindításához bökj a bytegarden ikonra a menüben.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>A bitwarden Safari-ban és más alkalmazásokban való bekapcsolásához bökj az "Egyéb" ikonra a menü alsó sorában.</value>
+    <value>A bytegarden Safari-ban és más alkalmazásokban való bekapcsolásához bökj az "Egyéb" ikonra a menü alsó sorában.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Kedvenc</value>
@@ -504,7 +504,7 @@
     <value>Elemek importálása</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Elemek tömeges importálása a bitwarden.com webes széfből. Szeretnéd most meglátogatni a weboldalt?</value>
+    <value>Elemek tömeges importálása a bytegarden.com webes széfből. Szeretnéd most meglátogatni a weboldalt?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Több bejelentkezés gyors importálása egyszerre egy másik jelszókezelő alkalmazásból.</value>
@@ -573,7 +573,7 @@
     <value>További beállítások</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>A bővítmény használata előtt be kell lépned a bitwarden alkalmazásba.</value>
+    <value>A bővítmény használata előtt be kell lépned a bytegarden alkalmazásba.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Soha</value>
@@ -598,7 +598,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>A beállítások alapértelmezései beállítva a fő bitwarden alkalmazás jelszó generátor eszközéből.</value>
+    <value>A beállítások alapértelmezései beállítva a fő bytegarden alkalmazás jelszó generátor eszközéből.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Beállítások</value>
@@ -622,7 +622,7 @@
     <value>Biztosan felül akarod írni a jelenlegi jelszót?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>A bitwarden a push értesítések használatával biztosítja a széfed automatikus szinkronizálását. A lehető legjobb élmény érdekében kérjük, válaszd ki az "Ok" opciót a következő értesítéskor, amikor felkér a push értesítések engedélyezésére.</value>
+    <value>A bytegarden a push értesítések használatával biztosítja a széfed automatikus szinkronizálását. A lehető legjobb élmény érdekében kérjük, válaszd ki az "Ok" opciót a következő értesítéskor, amikor felkér a push értesítések engedélyezésére.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -683,7 +683,7 @@
     <value>Kétlépcsős bejelentkezés</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>A kétlépcsős bejelentkezés biztonságosabbá teszi a fiókodat azáltal, hogy meg kell erősítened a bejelentkezésedet egy másik eszközzel mint például biztonsági kulcs, hitelesítő alkalmazás, SMS, telefon hívás vagy e-mail. Kétlépcsős bejelentkezést a bitwarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
+    <value>A kétlépcsős bejelentkezés biztonságosabbá teszi a fiókodat azáltal, hogy meg kell erősítened a bejelentkezésedet egy másik eszközzel mint például biztonsági kulcs, hitelesítő alkalmazás, SMS, telefon hívás vagy e-mail. Kétlépcsős bejelentkezést a bytegarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Kinyitás ezzel: {0}</value>
@@ -702,7 +702,7 @@
     <value>Elem megtekintése</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>bitwarden webes széf</value>
+    <value>bytegarden webes széf</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Elveszett hitelesítő alkalmazás?</value>
@@ -729,7 +729,7 @@
     <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceNotification" xml:space="preserve">
-    <value>Ha látsz egy bitwarden auto-kitöltés értesítést, érintsd meg azt az automatikus kitöltési szolgáltatás elindításához.</value>
+    <value>Ha látsz egy bytegarden auto-kitöltés értesítést, érintsd meg azt az automatikus kitöltési szolgáltatás elindításához.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Az értesítést megéríntétésvel automatikusan kitöltésre kerül egy bejelentkezés a széfedből.</value>
@@ -738,7 +738,7 @@
     <value>Kisegítő szolgáltatások megnyitása</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. az Android kisegítő szolgáltatások képernyőn válaszd ki a "bitwarden"-t a Szolgáltatások fejléc alatt.</value>
+    <value>1. az Android kisegítő szolgáltatások képernyőn válaszd ki a "bytegarden"-t a Szolgáltatások fejléc alatt.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. A felugró ablakban a jóváhagyáshoz bökj az OK gombra.</value>
@@ -970,7 +970,7 @@
     <value>Saját üzemeltetésű környezet</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Add meg az alap URL-t a helyileg üzemeltetett bitwarden telepítéshez.</value>
+    <value>Add meg az alap URL-t a helyileg üzemeltetett bytegarden telepítéshez.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>Szerver URL</value>
@@ -1132,7 +1132,7 @@
     <value>Ikonok kiszolgáló URL-címe</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Automatikus kitöltés bitwardennel</value>
+    <value>Automatikus kitöltés bytegardennel</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>A széf zárolva van</value>
@@ -1153,10 +1153,10 @@
     <value>Automatikus kitöltés kisegítő szolgáltatás</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>A bitwarden automatikus kitöltés szolgáltatása az Android automatikus kitöltő keretrendszerét használja a bejelentkezések, hitelkártyák és egyéb azonosító adatok kitöltésére más alkalmazásokban.</value>
+    <value>A bytegarden automatikus kitöltés szolgáltatása az Android automatikus kitöltő keretrendszerét használja a bejelentkezések, hitelkártyák és egyéb azonosító adatok kitöltésére más alkalmazásokban.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>A bitwarden kisegítő szolgáltatás használata bejelentkezések automatikus kitöltéséhez.</value>
+    <value>A bytegarden kisegítő szolgáltatás használata bejelentkezések automatikus kitöltéséhez.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Automatikus kitöltő beállítások megnyitása</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden lehetővé teszi egy szervezeti fiók használatával a fiók megosztását másokkal. Szeretnél többet megtudni a bitwarden.com weboldalon?</value>
+    <value>Bitwarden lehetővé teszi egy szervezeti fiók használatával a fiók megosztását másokkal. Szeretnél többet megtudni a bytegarden.com weboldalon?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Széf exportálása</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Bejelentkezve, mint {0} - {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>A széfed zárolva van. A folytatáshoz add meg a mesterjelszót.</value>

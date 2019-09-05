@@ -2,10 +2,10 @@ Categories:
 - Productivity
 
 License: GPL-3.0-only
-IssueTracker: https://github.com/bitwarden/mobile/issues
-SourceCode: https://github.com/bitwarden/mobile
-Changelog: https://github.com/bitwarden/mobile/releases
-WebSite: https://bitwarden.com
+IssueTracker: https://github.com/bytegarden/mobile/issues
+SourceCode: https://github.com/bytegarden/mobile
+Changelog: https://github.com/bytegarden/mobile/releases
+WebSite: https://bytegarden.com
 
 AuthorName: 8bit Solutions LLC
 Name: Bitwarden

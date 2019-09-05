@@ -340,7 +340,7 @@ namespace Bit.App
             Task.Run(() =>
             {
                 var word = EEFLongWordList.Instance.List[1];
-                var parsedDomain = DomainName.TryParse("https://bitwarden.com", out var domainName);
+                var parsedDomain = DomainName.TryParse("https://bytegarden.com", out var domainName);
             });
         }
 

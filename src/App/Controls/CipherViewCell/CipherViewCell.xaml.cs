@@ -172,7 +172,7 @@ namespace Bit.App.Controls
                         }
                         else
                         {
-                            iconsUrl = "https://icons.bitwarden.net";
+                            iconsUrl = "https://icons.bytegarden.net";
                         }
                     }
                     image = string.Format("{0}/{1}/icon.png", iconsUrl, hostname);

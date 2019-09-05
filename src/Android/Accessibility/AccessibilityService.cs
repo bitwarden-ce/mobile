@@ -17,14 +17,14 @@ namespace Bit.Droid.Accessibility
     [Service(Permission = Android.Manifest.Permission.BindAccessibilityService, Label = "Bitwarden")]
     [IntentFilter(new string[] { "android.accessibilityservice.AccessibilityService" })]
     [MetaData("android.accessibilityservice", Resource = "@xml/accessibilityservice")]
-    [Register("com.x8bit.bitwarden.Accessibility.AccessibilityService")]
+    [Register("com.x8bit.bytegarden.Accessibility.AccessibilityService")]
     public class AccessibilityService : Android.AccessibilityServices.AccessibilityService
     {
         private NotificationChannel _notificationChannel;
 
         private const int AutoFillNotificationId = 34573;
-        private const string BitwardenPackage = "com.x8bit.bitwarden";
-        private const string BitwardenWebsite = "vault.bitwarden.com";
+        private const string BitwardenPackage = "com.x8bit.bytegarden";
+        private const string BitwardenWebsite = "vault.bytegarden.com";
 
         private IStorageService _storageService;
         private bool _settingAutofillPasswordField;
@@ -248,7 +248,7 @@ namespace Bit.Droid.Accessibility
             {
                 if(_notificationChannel == null)
                 {
-                    _notificationChannel = new NotificationChannel("bitwarden_autofill_service",
+                    _notificationChannel = new NotificationChannel("bytegarden_autofill_service",
                         AppResources.AutofillService, NotificationImportance.Low);
                     notificationManager.CreateNotificationChannel(_notificationChannel);
                 }

@@ -427,13 +427,13 @@
     <value>變更電子郵件</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>您可以在 bitwarden 網頁版變更電子郵件地址。現在前往？</value>
+    <value>您可以在 bytegarden 網頁版變更電子郵件地址。現在前往？</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>變更主密碼</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>您可以在 bitwarden 網頁版密碼庫變更主密碼。現在前往？</value>
+    <value>您可以在 bytegarden 網頁版密碼庫變更主密碼。現在前往？</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>關閉</value>
@@ -504,7 +504,7 @@
     <value>匯入項目</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>您可以在 bitwarden 網頁版批次匯入登入資料。現在前往？</value>
+    <value>您可以在 bytegarden 網頁版批次匯入登入資料。現在前往？</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>快速從其他密碼管理應用程式中批次匯入您的登入資料。</value>
@@ -683,7 +683,7 @@
     <value>兩步驟登入</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>兩步驟登入需要您登入時輸入一個由驗證碼程式產生的安全碼，為您的帳戶增加一層保障。兩步驟登入可以在 bitwarden 網頁版啟用。現在前往？</value>
+    <value>兩步驟登入需要您登入時輸入一個由驗證碼程式產生的安全碼，為您的帳戶增加一層保障。兩步驟登入可以在 bytegarden 網頁版啟用。現在前往？</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>用 {0} 解鎖</value>
@@ -970,7 +970,7 @@
     <value>自我託管環境</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>指定自己設定、託管的 bitwarden 環境之基礎 URL。</value>
+    <value>指定自己設定、託管的 bytegarden 環境之基礎 URL。</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>伺服器 URL</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden 允許您使用組織帳戶與他人共享您的密碼庫。您想造訪 bitwarden.com 網站以了解更多內容嗎？</value>
+    <value>Bitwarden 允許您使用組織帳戶與他人共享您的密碼庫。您想造訪 bytegarden.com 網站以了解更多內容嗎？</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>匯出密碼庫</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>已在 {1} 以 {0} 身份登入。</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>密碼庫已鎖定。驗證主密碼以繼續。</value>

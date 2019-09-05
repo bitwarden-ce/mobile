@@ -427,13 +427,13 @@
     <value>Ändra e-postadress</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Du kan ändra din e-postadress på bitwardens webbvalv. Vill du besöka webbplatsen nu?</value>
+    <value>Du kan ändra din e-postadress på bytegardens webbvalv. Vill du besöka webbplatsen nu?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Ändra huvudlösenord</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Du kan ändra ditt huvudlösenord på bitwardens webbvalv. Vill du besöka webbplatsen nu?</value>
+    <value>Du kan ändra ditt huvudlösenord på bytegardens webbvalv. Vill du besöka webbplatsen nu?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Stäng</value>
@@ -504,7 +504,7 @@
     <value>Importera objekt</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Du kan massimportera objekt på bitwardens webbvalv. Vill du besöka webbsidan nu?</value>
+    <value>Du kan massimportera objekt på bytegardens webbvalv. Vill du besöka webbsidan nu?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Massimportera dina objekt snabbt från andra lösenordshanterare.</value>
@@ -683,7 +683,7 @@
     <value>Tvåstegsverifiering</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Tvåstegsverifiering gör ditt konto säkrare genom att kräva att du verifierar din inloggning med en annan enhet, till exempel genom en säkerhetsnyckel, autentiseringsapp, SMS, telefonsamtal eller mejl. Tvåstegsverifiering kan aktiveras på bitwardens webbvalv. Vill du besöka webbplatsen nu?</value>
+    <value>Tvåstegsverifiering gör ditt konto säkrare genom att kräva att du verifierar din inloggning med en annan enhet, till exempel genom en säkerhetsnyckel, autentiseringsapp, SMS, telefonsamtal eller mejl. Tvåstegsverifiering kan aktiveras på bytegardens webbvalv. Vill du besöka webbplatsen nu?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Lås upp med {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden allows you to share your vault with others by using an organization account. Would you like to visit the bitwarden.com website to learn more?</value>
+    <value>Bitwarden allows you to share your vault with others by using an organization account. Would you like to visit the bytegarden.com website to learn more?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Export Vault</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Logged in as {0} on {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Your vault is locked. Verify your master password to continue.</value>

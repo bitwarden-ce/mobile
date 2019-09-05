@@ -66,15 +66,15 @@ namespace Bit.Core.Services
             // Production
             if(string.IsNullOrWhiteSpace(ApiBaseUrl))
             {
-                ApiBaseUrl = "https://api.bitwarden.com";
+                ApiBaseUrl = "https://api.bytegarden.com";
             }
             if(string.IsNullOrWhiteSpace(IdentityBaseUrl))
             {
-                IdentityBaseUrl = "https://identity.bitwarden.com";
+                IdentityBaseUrl = "https://identity.bytegarden.com";
             }
             if(string.IsNullOrWhiteSpace(EventsBaseUrl))
             {
-                EventsBaseUrl = "https://events.bitwarden.com";
+                EventsBaseUrl = "https://events.bytegarden.com";
             }
         }
 

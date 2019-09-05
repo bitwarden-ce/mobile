@@ -9,7 +9,7 @@
 	<key>CFBundleName</key>
 	<string>Bitwarden</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.8bit.bitwarden</string>
+	<string>com.8bit.bytegarden</string>
 	<key>CFBundleShortVersionString</key>
 	<string>2.2.2</string>
 	<key>CFBundleVersion</key>
@@ -21,11 +21,11 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>bitwarden</string>
+				<string>bytegarden</string>
 				<string>org-appextension-feature-password-management</string>
 			</array>
 			<key>CFBundleURLName</key>
-			<string>com.8bit.bitwarden.url</string>
+			<string>com.8bit.bytegarden.url</string>
 		</dict>
 	</array>
 	<key>CFBundleLocalizations</key>

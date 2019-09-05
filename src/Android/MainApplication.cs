@@ -27,7 +27,7 @@ namespace Bit.Droid
 #else
     [Application(Debuggable = false)]
 #endif
-    [Register("com.x8bit.bitwarden.MainApplication")]
+    [Register("com.x8bit.bytegarden.MainApplication")]
 #if FDROID
     public class MainApplication : Application
 #else
@@ -98,7 +98,7 @@ namespace Bit.Droid
 
             var preferencesStorage = new PreferencesStorageService(null);
             var documentsPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
-            var liteDbStorage = new LiteDbStorageService(Path.Combine(documentsPath, "bitwarden.db"));
+            var liteDbStorage = new LiteDbStorageService(Path.Combine(documentsPath, "bytegarden.db"));
             liteDbStorage.InitAsync();
             var localizeService = new LocalizeService();
             var broadcasterService = new BroadcasterService();

@@ -118,21 +118,21 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>bitwarden Gestore Di Password</value>
+    <value>bytegarden Gestore Di Password</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>bitwarden è un gestore di login e password che ti aiuta a restare al sicuro online.</value>
+    <value>bytegarden è un gestore di login e password che ti aiuta a restare al sicuro online.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>bitwarden è il modo più semplice e sicuro per salvare tutti i tuoi login e password tenendoli contemporantemente sincronizzati su tutti i tuoi dispositivi.
+    <value>bytegarden è il modo più semplice e sicuro per salvare tutti i tuoi login e password tenendoli contemporantemente sincronizzati su tutti i tuoi dispositivi.
 
 Il furto di password è un problema serio. I siti e le app che utilizzi sono sotto attacco ogni giorno. Falle di sicurezza possono essere trovate e le tue password rubate. Quando riutilizzi la stessa password su più app e siti gli hacker possono facilmente accedere alla tua email, banca, e altri account importanti.
 
-Gli esperti di sicurezza raccomandano di utilizzare password casuali e diverse per ogni account che crei. Ma come gestire tutte quelle password? bitwarden ti rende facile creare, salvare e accedere alle tue password.
+Gli esperti di sicurezza raccomandano di utilizzare password casuali e diverse per ogni account che crei. Ma come gestire tutte quelle password? bytegarden ti rende facile creare, salvare e accedere alle tue password.
 
-bitwarden salva tutti i tuoi login in una cassaforte criptata che si sincronizza su tutti i tuoi dispositivi. Poichè è completamente criptata ancora prima di lasciare il tuo dispositivo, solo tu puoi accedere ai tuoi dati. Nemmeno il team di bitwarden può leggere i tuoi dati, anche se volessero. I tuoi dati sono criptati con algoritmo AES-256, salted hashing, e PBKDF2 SHA-256.</value>
+bytegarden salva tutti i tuoi login in una cassaforte criptata che si sincronizza su tutti i tuoi dispositivi. Poichè è completamente criptata ancora prima di lasciare il tuo dispositivo, solo tu puoi accedere ai tuoi dati. Nemmeno il team di bytegarden può leggere i tuoi dati, anche se volessero. I tuoi dati sono criptati con algoritmo AES-256, salted hashing, e PBKDF2 SHA-256.</value>
     <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

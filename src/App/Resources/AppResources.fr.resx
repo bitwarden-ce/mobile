@@ -427,13 +427,13 @@
     <value>Changer d'e-mail</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Vous pouvez changer votre adresse e-mail depuis le coffre web sur bitwarden.com. Voulez-vous visiter le site web maintenant ?</value>
+    <value>Vous pouvez changer votre adresse e-mail depuis le coffre web sur bytegarden.com. Voulez-vous visiter le site web maintenant ?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Changer le mot de passe maître</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Vous pouvez changer votre mot de passe maître depuis le coffre web sur bitwarden.com. Voulez-vous visiter le site web maintenant ?</value>
+    <value>Vous pouvez changer votre mot de passe maître depuis le coffre web sur bytegarden.com. Voulez-vous visiter le site web maintenant ?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Fermer</value>
@@ -504,7 +504,7 @@
     <value>Importer des éléments</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Vous pouvez importer en masse vos identifiants depuis le coffre web sur bitwarden.com. Souhaitez-vous visiter le site maintenant ?</value>
+    <value>Vous pouvez importer en masse vos identifiants depuis le coffre web sur bytegarden.com. Souhaitez-vous visiter le site maintenant ?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Importer rapidement en masse vos identifiants depuis d'autres applications de gestion de mots de passe.</value>
@@ -683,7 +683,7 @@
     <value>Identification en deux étapes</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>L'identification en deux étapes rend votre compte plus sécurisé en vous demandant la saisie d'un code de sécurité à chaque identification depuis l'application d'authentification. L'identification en deux étapes peut être activée dans le coffre web sur bitwarden.com. Voulez-vous visiter le site web maintenant ?</value>
+    <value>L'identification en deux étapes rend votre compte plus sécurisé en vous demandant la saisie d'un code de sécurité à chaque identification depuis l'application d'authentification. L'identification en deux étapes peut être activée dans le coffre web sur bytegarden.com. Voulez-vous visiter le site web maintenant ?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Déverrouiller avec {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden vous permet de partager votre coffre avec d'autres personnes en utilisant un compte d'organisation. Souhaitez-vous visiter le site web bitwarden.com pour en savoir plus ?</value>
+    <value>Bitwarden vous permet de partager votre coffre avec d'autres personnes en utilisant un compte d'organisation. Souhaitez-vous visiter le site web bytegarden.com pour en savoir plus ?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Exporter le coffre</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Connecté en tant que {0} sur {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Votre coffre est verrouillé. Vérifiez votre mot de passe maître pour continuer.</value>

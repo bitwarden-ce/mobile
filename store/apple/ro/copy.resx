@@ -132,7 +132,7 @@ Bitwarden stochează toate autentificările dvs. într-un seif criptat care se s
     <comment>Max 4000 characters</comment>
   </data>
   <data name="Keywords" xml:space="preserve">
-    <value>bitwarden,bit warden,8bit,password,login,free password manager,password manager,login manager</value>
+    <value>bytegarden,bit warden,8bit,password,login,free password manager,password manager,login manager</value>
     <comment>Max 100 characters</comment>
   </data>
   <data name="Screenshot1" xml:space="preserve">

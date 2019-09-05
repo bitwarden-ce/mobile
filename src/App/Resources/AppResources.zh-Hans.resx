@@ -427,13 +427,13 @@
     <value>修改 Email</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>您可以在 bitwarden.com 网页版密码库修改 email 地址。您现在要访问这个网站吗？</value>
+    <value>您可以在 bytegarden.com 网页版密码库修改 email 地址。您现在要访问这个网站吗？</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>修改主密码</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>您可以在 bitwarden.com 网页版密码库修改主密码。您现在要访问这个网站吗？</value>
+    <value>您可以在 bytegarden.com 网页版密码库修改主密码。您现在要访问这个网站吗？</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>关闭</value>
@@ -504,7 +504,7 @@
     <value>导入项目</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>您可以在 bitwarden.com 网页版密码库批量导入登录项目。您现在要访问这个网站吗？</value>
+    <value>您可以在 bytegarden.com 网页版密码库批量导入登录项目。您现在要访问这个网站吗？</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>快速从其他密码管理应用批量导入您的登录项目。</value>
@@ -683,7 +683,7 @@
     <value>两步登录</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>两步登录需要您登录时输入一个从认证应用获得的安全码，这样能使您的账户更安全。两步登录可以在 bitwarden.com 网页版打开。您现在要访问这个网站吗？</value>
+    <value>两步登录需要您登录时输入一个从认证应用获得的安全码，这样能使您的账户更安全。两步登录可以在 bytegarden.com 网页版打开。您现在要访问这个网站吗？</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>用 {0} 解锁</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden 允许您使用组织帐户与他人共享您的存储库。您想访问 bitwarden.com 网站以了解更多内容吗？</value>
+    <value>Bitwarden 允许您使用组织帐户与他人共享您的存储库。您想访问 bytegarden.com 网站以了解更多内容吗？</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>导出密码库</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>以 {0} 在 {1} 上登录。</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>您的密码库被锁定，请先验证您的主密码。</value>

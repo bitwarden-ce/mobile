@@ -15,11 +15,11 @@ namespace Bit.iOS.Core.Utilities
 {
     public static class iOSCoreHelpers
     {
-        public static string AppId = "com.8bit.bitwarden";
-        public static string AppAutofillId = "com.8bit.bitwarden.autofill";
-        public static string AppExtensionId = "com.8bit.bitwarden.find-login-action-extension";
-        public static string AppGroupId = "group.com.8bit.bitwarden";
-        public static string AccessGroup = "LTZ2PFU5D6.com.8bit.bitwarden";
+        public static string AppId = "com.8bit.bytegarden";
+        public static string AppAutofillId = "com.8bit.bytegarden.autofill";
+        public static string AppExtensionId = "com.8bit.bytegarden.find-login-action-extension";
+        public static string AppGroupId = "group.com.8bit.bytegarden";
+        public static string AccessGroup = "LTZ2PFU5D6.com.8bit.bytegarden";
 
         public static void RegisterHockeyApp()
         {
@@ -39,7 +39,7 @@ namespace Bit.iOS.Core.Utilities
             var preferencesStorage = new PreferencesStorageService(AppGroupId);
             var appGroupContainer = new NSFileManager().GetContainerUrl(AppGroupId);
             var liteDbStorage = new LiteDbStorageService(
-                Path.Combine(appGroupContainer.Path, "Library", "bitwarden.db"));
+                Path.Combine(appGroupContainer.Path, "Library", "bytegarden.db"));
             liteDbStorage.InitAsync();
             var localizeService = new LocalizeService();
             var broadcasterService = new BroadcasterService();

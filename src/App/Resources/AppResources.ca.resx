@@ -427,13 +427,13 @@
     <value>Canvia el correu electrònic</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Podeu canviar la contrasenya mestra a la caixa forta web de bitwarden.com. Voleu visitar el lloc web ara?</value>
+    <value>Podeu canviar la contrasenya mestra a la caixa forta web de bytegarden.com. Voleu visitar el lloc web ara?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Canvia la contrasenya mestra</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Podeu canviar la contrasenya mestra a la caixa forta web de bitwarden.com. Voleu visitar el lloc web ara?</value>
+    <value>Podeu canviar la contrasenya mestra a la caixa forta web de bytegarden.com. Voleu visitar el lloc web ara?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Tanca</value>
@@ -504,7 +504,7 @@
     <value>Importa elements</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Podeu fer una importació massiva d'elements des de la caixa forta web de bitwarden.com. Voleu visitar el lloc web ara?</value>
+    <value>Podeu fer una importació massiva d'elements des de la caixa forta web de bytegarden.com. Voleu visitar el lloc web ara?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Importa massivament i ràpida els elements d'altres aplicacions de gestió de contrasenyes.</value>
@@ -683,7 +683,7 @@
     <value>Inici de sessió en dues passes</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>L'inici de sessió en dues passes fa que el vostre compte siga més segur, ja que obliga a verificar el vostre inici de sessió amb un altre dispositiu, com ara una clau de seguretat, una aplicació autenticadora, un SMS, una trucada telefònica o un correu electrònic. Es pot habilitar l'inici de sessió en dues passes a la caixa forta web de bitwarden.com. Voleu visitar el lloc web ara?</value>
+    <value>L'inici de sessió en dues passes fa que el vostre compte siga més segur, ja que obliga a verificar el vostre inici de sessió amb un altre dispositiu, com ara una clau de seguretat, una aplicació autenticadora, un SMS, una trucada telefònica o un correu electrònic. Es pot habilitar l'inici de sessió en dues passes a la caixa forta web de bytegarden.com. Voleu visitar el lloc web ara?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Desbloqueja amb {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden us permet compartir la vostra caixa forta amb altres usuaris mitjançant un compte d'organització. Voleu visitar el lloc web de bitwarden.com per obtenir més informació?</value>
+    <value>Bitwarden us permet compartir la vostra caixa forta amb altres usuaris mitjançant un compte d'organització. Voleu visitar el lloc web de bytegarden.com per obtenir més informació?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Exporta caixa forta</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Heu iniciat la sessió com a {0} en {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>La caixa forta està bloquejada. Verifiqueu la contrasenya mestra per continuar.</value>

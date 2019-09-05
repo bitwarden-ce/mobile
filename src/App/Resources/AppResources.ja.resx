@@ -427,13 +427,13 @@
     <value>メールアドレスの変更</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>メールアドレスは bitwarden.com ウェブ保管庫で変更できます。ウェブサイトを開きますか？</value>
+    <value>メールアドレスは bytegarden.com ウェブ保管庫で変更できます。ウェブサイトを開きますか？</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>マスターパスワードの変更</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>マスターパスワードは bitwarden.com ウェブ保管庫で変更できます。ウェブサイトを開きますか？</value>
+    <value>マスターパスワードは bytegarden.com ウェブ保管庫で変更できます。ウェブサイトを開きますか？</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>閉じる</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwardenでは、組織アカウントを使用して保管庫を他の人と共有できます。 詳細はbitwarden.comのウェブサイトをご覧ください。</value>
+    <value>Bitwardenでは、組織アカウントを使用して保管庫を他の人と共有できます。 詳細はbytegarden.comのウェブサイトをご覧ください。</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>保管庫のエクスポート</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>{1} で {0} としてログインしました。</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>保管庫がロックされています。開くにはマスターパスワードを入力してください。</value>

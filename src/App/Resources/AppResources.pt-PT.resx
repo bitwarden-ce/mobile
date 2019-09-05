@@ -427,13 +427,13 @@
     <value>Alterar email</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Pode alterar o seu endereço de email no cofre web bitwarden.com. Pretende visitar o website agora?</value>
+    <value>Pode alterar o seu endereço de email no cofre web bytegarden.com. Pretende visitar o website agora?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Alterar palavra-passe mestra</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Pode alterar a sua palavra-passe mestra no cofre web bitwarden.com. Pretende visitar o website agora?</value>
+    <value>Pode alterar a sua palavra-passe mestra no cofre web bytegarden.com. Pretende visitar o website agora?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Fechar</value>
@@ -504,7 +504,7 @@
     <value>Importar itens</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Pode importar em massa os seus itens a partir do cofre web bitwarden.com. Pretende visitar o website agora?</value>
+    <value>Pode importar em massa os seus itens a partir do cofre web bytegarden.com. Pretende visitar o website agora?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Importe rapidamente em massa os seus itens de outras aplicações de gestão de palavras-passe.</value>
@@ -683,7 +683,7 @@
     <value>Início de sessão de dois passos</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>O início de sessão de dois passos torna a sua conta mais segura ao requerer que verifique o seu início de sessão com outro dispositivo como uma chave de segurança, aplicação de autenticação, SMS, chamada telefónica, ou email. O início de sessão de dois passos pode ser ativado no cofre web bitwarden.com. Pretende visitar o website agora?</value>
+    <value>O início de sessão de dois passos torna a sua conta mais segura ao requerer que verifique o seu início de sessão com outro dispositivo como uma chave de segurança, aplicação de autenticação, SMS, chamada telefónica, ou email. O início de sessão de dois passos pode ser ativado no cofre web bytegarden.com. Pretende visitar o website agora?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Desbloquear com {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>O Bitwarden permite-lhe partilhar o seu cofre com outros ao utilizar uma conta de organização. Gostaria de visitar o website bitwarden.com para saber mais?</value>
+    <value>O Bitwarden permite-lhe partilhar o seu cofre com outros ao utilizar uma conta de organização. Gostaria de visitar o website bytegarden.com para saber mais?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Exportar cofre</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Sessão iniciada como {0} em {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>O seu cofre está bloqueado. Verifique a sua palavra-passe mestra para continuar.</value>

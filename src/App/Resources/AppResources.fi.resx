@@ -415,25 +415,25 @@
     <value>Helpoin tapa lisätä uusia kirjautumistietoja holviisi on käyttää Bitwardenin sovelluslaajennusta. Lue lisää sovelluslaajennuksesta "Työkalut"-kohdassa.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Käytä bitwardenia Safarissa ja muissa sovelluksissa kirjautumistietojen automaattiseen täydennykseen.</value>
+    <value>Käytä bytegardenia Safarissa ja muissa sovelluksissa kirjautumistietojen automaattiseen täydennykseen.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
     <value>Bitwardenin automaattinen täyttö ‑palvelu</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Use the bitwarden accessibility service to auto-fill your logins.</value>
+    <value>Use the bytegarden accessibility service to auto-fill your logins.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>Vaihda sähköpostiosoite</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Voit vaihtaa sähköpostiosoitteesi bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
+    <value>Voit vaihtaa sähköpostiosoitteesi bytegarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Vaihda pääsalasana</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Voit vaihtaa pääsalasanasi bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
+    <value>Voit vaihtaa pääsalasanasi bytegarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Sulje</value>
@@ -467,7 +467,7 @@
     <value>Käytä sovelluslaajennusta</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>Safarissa löydät bitwardenin käyttämällä jakokuvaketta (vihje: vieritä oikealle valikon alarivillä).</value>
+    <value>Safarissa löydät bytegardenin käyttämällä jakokuvaketta (vihje: vieritä oikealle valikon alarivillä).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -480,13 +480,13 @@
     <value>Kirjautumistietosi ovat nyt helposti saatavilla Safarissa, Chromessa ja muissa tuetuissa sovelluksissa.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>Safarissa ja Chromessa löydät bitwardenin käyttämällä jakokuvaketta (vihje: vieritä oikealle jakovalikon alarivillä).</value>
+    <value>Safarissa ja Chromessa löydät bytegardenin käyttämällä jakokuvaketta (vihje: vieritä oikealle jakovalikon alarivillä).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Paina bitwarden-kuvaketta valikossa käynnistääksesi laajennuksen.</value>
+    <value>Paina bytegarden-kuvaketta valikossa käynnistääksesi laajennuksen.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Ottaaksesi bitwardenin käyttöön Safarissa ja muissa sovelluksissa paina "lisää"-kuvaketta valikon alarivillä.</value>
+    <value>Ottaaksesi bytegardenin käyttöön Safarissa ja muissa sovelluksissa paina "lisää"-kuvaketta valikon alarivillä.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Suosikki</value>
@@ -504,7 +504,7 @@
     <value>Tuo kohteita</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Voit tuoda kerralla kaikki kohteesi bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
+    <value>Voit tuoda kerralla kaikki kohteesi bytegarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Tuo kerralla kohteitasi muista salasananhallintapalveluista.</value>
@@ -573,7 +573,7 @@
     <value>Lisää asetuksia</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>Sinun on kirjauduttava bitwardenin pääsovellukseen ennen kuin voit käyttää laajennusta.</value>
+    <value>Sinun on kirjauduttava bytegardenin pääsovellukseen ennen kuin voit käyttää laajennusta.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Ei koskaan</value>
@@ -622,7 +622,7 @@
     <value>Haluatko varmasti korvata nykyisen salasanan?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>bitwarden pitää holvisi automaattisesti synkronoituna käyttämällä ilmoituspalvelua. Parhaan kokemuksen takaamiseksi kannattaa ottaa ilmoitukset käyttöön seuraavassa ruudussa.</value>
+    <value>bytegarden pitää holvisi automaattisesti synkronoituna käyttämällä ilmoituspalvelua. Parhaan kokemuksen takaamiseksi kannattaa ottaa ilmoitukset käyttöön seuraavassa ruudussa.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -683,7 +683,7 @@
     <value>Kaksivaiheinen kirjautuminen</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Kaksivaiheinen kirjautuminen tekee tilistäsi turvallisemman vaatimalla koodin tunnistautumispalvelusta joka kirjautumiskerralla. Voit ottaa kaksivaiheisen tunnistautumisen käyttöön bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
+    <value>Kaksivaiheinen kirjautuminen tekee tilistäsi turvallisemman vaatimalla koodin tunnistautumispalvelusta joka kirjautumiskerralla. Voit ottaa kaksivaiheisen tunnistautumisen käyttöön bytegarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Avaa käyttäen: {0}</value>
@@ -729,7 +729,7 @@
     <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceNotification" xml:space="preserve">
-    <value>Kun näet ilmoituksen bitwardenin automaattisesta täydennyksestä, voit napauttaa sitä käynnistääksesi palvelun.</value>
+    <value>Kun näet ilmoituksen bytegardenin automaattisesta täydennyksestä, voit napauttaa sitä käynnistääksesi palvelun.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Napauta tätä ilmoitusta täydentääksesi kohteen automaattisesti.</value>
@@ -1153,7 +1153,7 @@
     <value>Automaattisen täytön esteettömyyspalvelu</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>The bitwarden auto-fill service uses the Android Autofill Framework to assist in filling logins, credit cards, and identity information into other apps on your device.</value>
+    <value>The bytegarden auto-fill service uses the Android Autofill Framework to assist in filling logins, credit cards, and identity information into other apps on your device.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
     <value>Käytä Bitwardenin esteettömyyspalvelua täyttääksesi automaattisesti käyttäjätunnukset, kortti- ja henkilöllisyystiedot muihin sovelluksiin.</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Voit jakaa Bitwardenilla holvisi sisällön muiden kanssa käyttämällä organisaatiotiliä. Haluatko käydä bitwarden.com-sivustolla lukemassa lisää?</value>
+    <value>Voit jakaa Bitwardenilla holvisi sisällön muiden kanssa käyttämällä organisaatiotiliä. Haluatko käydä bytegarden.com-sivustolla lukemassa lisää?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Vie holvi</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>{0} kirjattu sivustolle {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Holvisi on lukittu. Varmista pääsalasanasi jatkaaksesi.</value>

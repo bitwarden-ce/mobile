@@ -29,7 +29,7 @@ namespace Bit.App.Pages
         private bool _u2fSupported = false;
         private TwoFactorProviderType? _selectedProviderType;
         private string _totpInstruction;
-        private string _webVaultUrl = "https://vault.bitwarden.com";
+        private string _webVaultUrl = "https://vault.bytegarden.com";
 
         public TwoFactorPageViewModel()
         {
@@ -227,7 +227,7 @@ namespace Bit.App.Pages
                 null, options.ToArray());
             if(method == AppResources.RecoveryCodeTitle)
             {
-                _platformUtilsService.LaunchUri("https://help.bitwarden.com/article/lost-two-step-device/");
+                _platformUtilsService.LaunchUri("https://help.bytegarden.com/article/lost-two-step-device/");
             }
             else if(method != AppResources.Cancel)
             {

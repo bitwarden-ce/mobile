@@ -22,8 +22,8 @@ namespace Bit.Droid.Migration
         private const string AndroidKeyStore = "AndroidKeyStore";
         private const string AesMode = "AES/GCM/NoPadding";
 
-        private const string KeyAlias = "bitwardenKey2";
-        private const string KeyAliasV1 = "bitwardenKey";
+        private const string KeyAlias = "bytegardenKey2";
+        private const string KeyAliasV1 = "bytegardenKey";
 
         private const string SettingsFormat = "ksSecured2:{0}";
         private const string SettingsFormatV1 = "ksSecured:{0}";

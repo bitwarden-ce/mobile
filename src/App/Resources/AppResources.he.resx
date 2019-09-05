@@ -427,13 +427,13 @@
     <value>החלף אימייל</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>באפשרותך לשנות את כתובת האימייל שלך דרך הכספת באתר bitwarden.com. האם ברצונך לפתוח את האתר כעת?</value>
+    <value>באפשרותך לשנות את כתובת האימייל שלך דרך הכספת באתר bytegarden.com. האם ברצונך לפתוח את האתר כעת?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>החלף סיסמה ראשית</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>באפשרותך לשנות את הסיסמה הראשית שלך דרך הכספת באתר bitwarden.com. האם ברצונך לפתוח את האתר כעת?</value>
+    <value>באפשרותך לשנות את הסיסמה הראשית שלך דרך הכספת באתר bytegarden.com. האם ברצונך לפתוח את האתר כעת?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>סגירה</value>
@@ -504,7 +504,7 @@
     <value>יבא פריטים</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>באפשרותך ליבא פריטים מרובים דרך הכספת שבאתר bitwarden.com. האם ברצונך לבקר באתר כעת?</value>
+    <value>באפשרותך ליבא פריטים מרובים דרך הכספת שבאתר bytegarden.com. האם ברצונך לבקר באתר כעת?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>יבא במהירות את הפריטים שלך מתוכנות אחרות לניהול סיסמאות.</value>
@@ -683,7 +683,7 @@
     <value>התחברות בשני-שלבים</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>התחברות בשני-שלבים הופכת את החשבון שלך למאובטח יותר בכך שאתה נדרש לוודא בכל כניסה בעזרת מכשיר אחר כדוגמת מפתח אבטחה, תוכנת אימות, SMS, שיחת טלפון, או אימייל. ניתן להפעיל את "התחברות בשני-שלבים" בכספת שבאתר bitwarden.com. האם ברצונך לפתוח את האתר כעת?</value>
+    <value>התחברות בשני-שלבים הופכת את החשבון שלך למאובטח יותר בכך שאתה נדרש לוודא בכל כניסה בעזרת מכשיר אחר כדוגמת מפתח אבטחה, תוכנת אימות, SMS, שיחת טלפון, או אימייל. ניתן להפעיל את "התחברות בשני-שלבים" בכספת שבאתר bytegarden.com. האם ברצונך לפתוח את האתר כעת?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>בטל נעילה עם {0}</value>
@@ -1435,7 +1435,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>תוכנת Bitwarden מאפשרת לך לשתף את הכספת עם אחרים בעזרת חשבון ארגון. האם תרצה לבקר באתר bitwarden.com ללמוד עוד בנושא זה?</value>
+    <value>תוכנת Bitwarden מאפשרת לך לשתף את הכספת עם אחרים בעזרת חשבון ארגון. האם תרצה לבקר באתר bytegarden.com ללמוד עוד בנושא זה?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>יצוא כספת</value>
@@ -1460,7 +1460,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>התחברת כ-{0} ל {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>הכספת שלך נעולה. הזן את הסיסמה הראשית שלך כדי להמשיך.</value>

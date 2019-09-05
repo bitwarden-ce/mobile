@@ -427,13 +427,13 @@
     <value>Cambiar correo electrónico</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Puedes cambiar tu correo electrónico en la caja fuerte web de bitwarden.com. ¿Quieres visitar ahora el sitio web?</value>
+    <value>Puedes cambiar tu correo electrónico en la caja fuerte web de bytegarden.com. ¿Quieres visitar ahora el sitio web?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Cambiar contraseña maestra</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Puedes cambiar tu contraseña maestra en la caja fuerte web de bitwarden.com. ¿Quieres visitar ahora el sitio web?</value>
+    <value>Puedes cambiar tu contraseña maestra en la caja fuerte web de bytegarden.com. ¿Quieres visitar ahora el sitio web?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Cerrar</value>
@@ -504,7 +504,7 @@
     <value>Importar elementos</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Puedes importar elementos desde la caja fuerte web de bitwarden.com. ¿Quieres visitar el sitio web ahora?</value>
+    <value>Puedes importar elementos desde la caja fuerte web de bytegarden.com. ¿Quieres visitar el sitio web ahora?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Importa rápida y masivamente elementos desde otras aplicaciones gestoras de contraseñas.</value>
@@ -683,7 +683,7 @@
     <value>Autenticación en dos pasos</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>La autenticación en dos pasos hace que tu cuenta sea mucho más segura requiriendo que introduzcas un código de seguridad de una aplicación de autenticación cada vez que accedes. La autenticación en dos pasos puede ser habilitada en la caja fuerte web de bitwarden.com. ¿Quieres visitar ahora el sitio web?</value>
+    <value>La autenticación en dos pasos hace que tu cuenta sea mucho más segura requiriendo que introduzcas un código de seguridad de una aplicación de autenticación cada vez que accedes. La autenticación en dos pasos puede ser habilitada en la caja fuerte web de bytegarden.com. ¿Quieres visitar ahora el sitio web?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Desbloquear con {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden te permite compartir tu caja fuerte con otras personas utilizando una cuenta de organización. ¿Quieres visitar la web bitwarden.com para conocer más?</value>
+    <value>Bitwarden te permite compartir tu caja fuerte con otras personas utilizando una cuenta de organización. ¿Quieres visitar la web bytegarden.com para conocer más?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Exportar caja fuerte</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Iniciado como {0} en {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Tu caja fuerte está bloqueada. Verifica tu contraseña maestra para continuar.</value>

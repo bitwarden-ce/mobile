@@ -844,7 +844,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can change your email address on the bitwarden.com web vault. Do you want to visit the website now?.
+        ///   Looks up a localized string similar to You can change your email address on the bytegarden.com web vault. Do you want to visit the website now?.
         /// </summary>
         public static string ChangeEmailConfirmation {
             get {
@@ -862,7 +862,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can change your master password on the bitwarden.com web vault. Do you want to visit the website now?.
+        ///   Looks up a localized string similar to You can change your master password on the bytegarden.com web vault. Do you want to visit the website now?.
         /// </summary>
         public static string ChangePasswordConfirmation {
             get {
@@ -1933,7 +1933,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can bulk import items from the bitwarden.com web vault. Do you want to visit the website now?.
+        ///   Looks up a localized string similar to You can bulk import items from the bytegarden.com web vault. Do you want to visit the website now?.
         /// </summary>
         public static string ImportItemsConfirmation {
             get {
@@ -3391,7 +3391,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden allows you to share your vault with others by using an organization account. Would you like to visit the bitwarden.com website to learn more?.
+        ///   Looks up a localized string similar to Bitwarden allows you to share your vault with others by using an organization account. Would you like to visit the bytegarden.com website to learn more?.
         /// </summary>
         public static string ShareVaultConfirmation {
             get {
@@ -3643,7 +3643,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Two-step login makes your account more secure by requiring you to verify your login with another device such as a security key, authenticator app, SMS, phone call, or email. Two-step login can be enabled on the bitwarden.com web vault. Do you want to visit the website now?.
+        ///   Looks up a localized string similar to Two-step login makes your account more secure by requiring you to verify your login with another device such as a security key, authenticator app, SMS, phone call, or email. Two-step login can be enabled on the bytegarden.com web vault. Do you want to visit the website now?.
         /// </summary>
         public static string TwoStepLoginConfirmation {
             get {

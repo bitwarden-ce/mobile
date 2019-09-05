@@ -427,13 +427,13 @@
     <value>Muuda e-posti</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Saad oma e-posti aadressi muuta bitwarden.com veebihoidlas. Soovid seda kohe teha?</value>
+    <value>Saad oma e-posti aadressi muuta bytegarden.com veebihoidlas. Soovid seda kohe teha?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Muuda ülemparooli</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Saad oma ülemparooli muuta bitwarden.com veebihoidlas. Soovid seda kohe teha?</value>
+    <value>Saad oma ülemparooli muuta bytegarden.com veebihoidlas. Soovid seda kohe teha?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Sulge</value>
@@ -683,7 +683,7 @@
     <value>Kaheastmeline kinnitamine</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Kaheastmeline kinnitamine aitab konto turvalisust tõsta. Lisaks paroolile pead kontole ligipääsemiseks kinnitama sisselogimise päringu SMS-ga, telefonikõnega, autentimise rakendusega või e-postiga. Kaheastmelist kinnitust saab sisse lülitada bitwarden.com veebihoidlas. Soovid seda kohe avada?</value>
+    <value>Kaheastmeline kinnitamine aitab konto turvalisust tõsta. Lisaks paroolile pead kontole ligipääsemiseks kinnitama sisselogimise päringu SMS-ga, telefonikõnega, autentimise rakendusega või e-postiga. Kaheastmelist kinnitust saab sisse lülitada bytegarden.com veebihoidlas. Soovid seda kohe avada?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Lukusta lahti {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwardeniga saad oma hoidlat teistega jagada, kasutades seleks organisatsiooni kontot. Kas soovid selle kohta lisateavet ja avada bitwarden.com veebilehe?</value>
+    <value>Bitwardeniga saad oma hoidlat teistega jagada, kasutades seleks organisatsiooni kontot. Kas soovid selle kohta lisateavet ja avada bytegarden.com veebilehe?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Ekspordi hoidla</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Sisse logitud kontoga {0} lehel {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Hoidla on lukus. Jätkamiseks sisesta ülemparool.</value>

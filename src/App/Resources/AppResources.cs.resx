@@ -427,13 +427,13 @@
     <value>Změnit e-mail</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>E-mailovou adresu si můžete změnit na webové stránce bitwarden.com. Chcete tuto stránku nyní otevřít?</value>
+    <value>E-mailovou adresu si můžete změnit na webové stránce bytegarden.com. Chcete tuto stránku nyní otevřít?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Změnit hlavní heslo</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Hlavní heslo si můžete změnit na webové stránce bitwarden.com. Chcete tuto stránku nyní otevřít?</value>
+    <value>Hlavní heslo si můžete změnit na webové stránce bytegarden.com. Chcete tuto stránku nyní otevřít?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Zavřít</value>
@@ -504,7 +504,7 @@
     <value>Importovat položky</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Můžete hromadně importovat položky do vašeho trezoru na webové stránce bitwarden.com. Chcete tuto stránku nyní otevřít?</value>
+    <value>Můžete hromadně importovat položky do vašeho trezoru na webové stránce bytegarden.com. Chcete tuto stránku nyní otevřít?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Importujte rychle a hromadně údaje z jiných aplikací pro správu hesel.</value>
@@ -683,7 +683,7 @@
     <value>Dvoufázové přihlášení</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Dvoufázové přihlášení činí váš účet mnohem bezpečnějším díky nutnosti po každém úspěšném přihlášení zadat ověřovací kód získaný z aplikace, SMS, e-mailu nebo telefonního hovoru. Dvoufázové přihlášení lze aktivovat na webové stránce bitwarden.com. Chcete tuto stránku nyní otevřít?</value>
+    <value>Dvoufázové přihlášení činí váš účet mnohem bezpečnějším díky nutnosti po každém úspěšném přihlášení zadat ověřovací kód získaný z aplikace, SMS, e-mailu nebo telefonního hovoru. Dvoufázové přihlášení lze aktivovat na webové stránce bytegarden.com. Chcete tuto stránku nyní otevřít?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Odemknout pomocí {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden umožňuje sdílet váš trezor s ostatními prostřednictvím účtu organizace. Chcete přejít na bitwarden.com a dozvědět se víc?</value>
+    <value>Bitwarden umožňuje sdílet váš trezor s ostatními prostřednictvím účtu organizace. Chcete přejít na bytegarden.com a dozvědět se víc?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Exportovat přihlašovací údaje</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Přihlášen jako {0} na {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Váš trezor je uzamčen. Pro pokračování musíte zadat hlavní heslo.</value>

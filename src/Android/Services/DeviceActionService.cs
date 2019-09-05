@@ -188,7 +188,7 @@ namespace Bit.Droid.Services
             {
                 var intent = new Intent(Intent.ActionView);
                 var uri = FileProvider.GetUriForFile(activity.ApplicationContext,
-                    "com.x8bit.bitwarden.fileprovider", file);
+                    "com.x8bit.bytegarden.fileprovider", file);
                 intent.SetDataAndType(uri, mimeType);
                 intent.SetFlags(ActivityFlags.GrantReadUriPermission);
                 return intent;
@@ -237,7 +237,7 @@ namespace Bit.Droid.Services
                             file.CreateNewFile();
                         }
                         var outputFileUri = FileProvider.GetUriForFile(activity,
-                            "com.x8bit.bitwarden.fileprovider", file);
+                            "com.x8bit.bytegarden.fileprovider", file);
                         additionalIntents.AddRange(GetCameraIntents(outputFileUri));
                     }
                     catch(Java.IO.IOException) { }
@@ -551,7 +551,7 @@ namespace Bit.Droid.Services
                 var activity = (MainActivity)CrossCurrentActivity.Current.Activity;
                 var manager = activity.GetSystemService(Context.ActivityService) as ActivityManager;
                 var services = manager.GetRunningServices(int.MaxValue);
-                return services.Any(s => s.Process.ToLowerInvariant().Contains("bitwarden") &&
+                return services.Any(s => s.Process.ToLowerInvariant().Contains("bytegarden") &&
                     s.Service.ClassName.ToLowerInvariant().Contains("accessibilityservice"));
             }
             catch
@@ -596,7 +596,7 @@ namespace Bit.Droid.Services
             try
             {
                 var intent = new Intent(Settings.ActionRequestSetAutofillService);
-                intent.SetData(Android.Net.Uri.Parse("package:com.x8bit.bitwarden"));
+                intent.SetData(Android.Net.Uri.Parse("package:com.x8bit.bytegarden"));
                 activity.StartActivity(intent);
             }
             catch(ActivityNotFoundException)

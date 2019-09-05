@@ -1,16 +1,16 @@
 {
   "project_info": {
     "project_number": "1093287226212",
-    "firebase_url": "https://bitwarden-dev.firebaseio.com",
-    "project_id": "bitwarden-dev",
-    "storage_bucket": "bitwarden-dev.appspot.com"
+    "firebase_url": "https://bytegarden-dev.firebaseio.com",
+    "project_id": "bytegarden-dev",
+    "storage_bucket": "bytegarden-dev.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:1093287226212:android:f8d67b786db1b844",
         "android_client_info": {
-          "package_name": "com.x8bit.bitwarden"
+          "package_name": "com.x8bit.bytegarden"
         }
       },
       "oauth_client": [

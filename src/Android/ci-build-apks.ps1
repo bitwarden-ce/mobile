@@ -31,15 +31,15 @@ echo "##### Sign Release Configuration"
 echo "########################################"
 
 msbuild "$($androidPath)" "/t:SignAndroidPackage" "/p:Configuration=Release" "/p:AndroidKeyStore=true" `
-    "/p:AndroidSigningKeyAlias=bitwarden" "/p:AndroidSigningKeyPass=$($env:keystore_password)" `
+    "/p:AndroidSigningKeyAlias=bytegarden" "/p:AndroidSigningKeyPass=$($env:keystore_password)" `
     "/p:AndroidSigningKeyStore=8bit.keystore" "/p:AndroidSigningStorePass=$($env:keystore_password)" "/v:quiet"
 	
 echo "########################################"
 echo "##### Copy Release apk to project root"
 echo "########################################"
 
-$signedApkPath = $($rootPath + "\src\Android\bin\Release\com.x8bit.bitwarden-Signed.apk");
-$signedApkDestPath = $($rootPath + "\com.x8bit.bitwarden.apk");
+$signedApkPath = $($rootPath + "\src\Android\bin\Release\com.x8bit.bytegarden-Signed.apk");
+$signedApkDestPath = $($rootPath + "\com.x8bit.bytegarden.apk");
 
 Copy-Item $signedApkPath $signedApkDestPath
 
@@ -126,15 +126,15 @@ echo "########################################"
 msbuild "$($androidPath)" "/logger:C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" `
     "/p:Configuration=FDroid"
 msbuild "$($androidPath)" "/t:SignAndroidPackage" "/p:Configuration=FDroid" "/p:AndroidKeyStore=true" `
-    "/p:AndroidSigningKeyAlias=bitwarden" "/p:AndroidSigningKeyPass=$($env:keystore_password)" `
+    "/p:AndroidSigningKeyAlias=bytegarden" "/p:AndroidSigningKeyPass=$($env:keystore_password)" `
     "/p:AndroidSigningKeyStore=8bit.keystore" "/p:AndroidSigningStorePass=$($env:keystore_password)" "/v:quiet"
 	
 echo "########################################"
 echo "##### Copy FDroid apk to project root"
 echo "########################################"
 
-$signedApkPath = $($rootPath + "\src\Android\bin\FDroid\com.x8bit.bitwarden-Signed.apk");
-$signedApkDestPath = $($rootPath + "\com.x8bit.bitwarden-fdroid.apk");
+$signedApkPath = $($rootPath + "\src\Android\bin\FDroid\com.x8bit.bytegarden-Signed.apk");
+$signedApkDestPath = $($rootPath + "\com.x8bit.bytegarden-fdroid.apk");
 
 Copy-Item $signedApkPath $signedApkDestPath
 

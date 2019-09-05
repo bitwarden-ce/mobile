@@ -31,7 +31,7 @@
                     <Entry
                         Text="{Binding BaseUrl}"
                         Keyboard="Url"
-                        Placeholder="ex. https://bitwarden.company.com"
+                        Placeholder="ex. https://bytegarden.company.com"
                         StyleClass="box-value"
                         ReturnType="Go"
                         ReturnCommand="{Binding SubmitCommand}" />

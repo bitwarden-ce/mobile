@@ -9,7 +9,7 @@
 	<key>CFBundleName</key>
 	<string>Bitwarden Autofill</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.8bit.bitwarden.autofill</string>
+	<string>com.8bit.bytegarden.autofill</string>
 	<key>CFBundleShortVersionString</key>
 	<string>2.2.2</string>
 	<key>CFBundleVersion</key>

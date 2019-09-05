@@ -6,11 +6,11 @@
 	<true/>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.com.8bit.bitwarden</string>
+		<string>group.com.8bit.bytegarden</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)com.8bit.bitwarden</string>
+		<string>$(AppIdentifierPrefix)com.8bit.bytegarden</string>
 	</array>
 </dict>
 </plist>

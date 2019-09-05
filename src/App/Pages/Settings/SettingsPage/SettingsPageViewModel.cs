@@ -93,7 +93,7 @@ namespace Bit.App.Pages
 
         public void Help()
         {
-            _platformUtilsService.LaunchUri("https://help.bitwarden.com/");
+            _platformUtilsService.LaunchUri("https://help.bytegarden.com/");
         }
 
         public async Task FingerprintAsync()
@@ -113,7 +113,7 @@ namespace Bit.App.Pages
                 AppResources.LearnMore, AppResources.Close);
             if(learnMore)
             {
-                _platformUtilsService.LaunchUri("https://help.bitwarden.com/article/fingerprint-phrase/");
+                _platformUtilsService.LaunchUri("https://help.bytegarden.com/article/fingerprint-phrase/");
             }
         }
 
@@ -124,12 +124,12 @@ namespace Bit.App.Pages
 
         public void Import()
         {
-            _platformUtilsService.LaunchUri("https://help.bitwarden.com/article/import-data/");
+            _platformUtilsService.LaunchUri("https://help.bytegarden.com/article/import-data/");
         }
 
         public void Export()
         {
-            _platformUtilsService.LaunchUri("https://help.bitwarden.com/article/export-your-data/");
+            _platformUtilsService.LaunchUri("https://help.bytegarden.com/article/export-your-data/");
         }
 
         public void WebVault()
@@ -137,7 +137,7 @@ namespace Bit.App.Pages
             var url = _environmentService.GetWebVaultUrl();
             if(url == null)
             {
-                url = "https://vault.bitwarden.com";
+                url = "https://vault.bytegarden.com";
             }
             _platformUtilsService.LaunchUri(url);
         }
@@ -148,7 +148,7 @@ namespace Bit.App.Pages
                 AppResources.ShareVault, AppResources.Yes, AppResources.Cancel);
             if(confirmed)
             {
-                _platformUtilsService.LaunchUri("https://help.bitwarden.com/article/what-is-an-organization/");
+                _platformUtilsService.LaunchUri("https://help.bytegarden.com/article/what-is-an-organization/");
             }
         }
 
@@ -158,7 +158,7 @@ namespace Bit.App.Pages
                 AppResources.TwoStepLogin, AppResources.Yes, AppResources.Cancel);
             if(confirmed)
             {
-                _platformUtilsService.LaunchUri("https://help.bitwarden.com/article/setup-two-step-login/");
+                _platformUtilsService.LaunchUri("https://help.bytegarden.com/article/setup-two-step-login/");
             }
         }
 
@@ -168,7 +168,7 @@ namespace Bit.App.Pages
                 AppResources.ChangeMasterPassword, AppResources.Yes, AppResources.Cancel);
             if(confirmed)
             {
-                _platformUtilsService.LaunchUri("https://help.bitwarden.com/article/change-your-master-password/");
+                _platformUtilsService.LaunchUri("https://help.bytegarden.com/article/change-your-master-password/");
             }
         }
 

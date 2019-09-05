@@ -11,7 +11,7 @@ namespace Bit.Publisher
 {
     public class Program
     {
-        private const string Package = "com.x8bit.bitwarden";
+        private const string Package = "com.x8bit.bytegarden";
 
         private static string _apkFilePath;
         private static string _credsFilePath;

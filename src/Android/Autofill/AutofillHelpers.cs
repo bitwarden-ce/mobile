@@ -67,7 +67,7 @@ namespace Bit.Droid.Autofill
         public static HashSet<string> BlacklistedUris = new HashSet<string>
         {
             "androidapp://android",
-            "androidapp://com.x8bit.bitwarden",
+            "androidapp://com.x8bit.bytegarden",
             "androidapp://com.oneplus.applocker",
         };
 

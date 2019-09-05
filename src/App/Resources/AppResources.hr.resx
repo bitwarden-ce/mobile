@@ -427,13 +427,13 @@
     <value>Promijeni e-poštu</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Adresu e-pošte možete promijeniti na trezoru web sučelja bitwarden.com. Želite li sada posjetiti web stranicu?</value>
+    <value>Adresu e-pošte možete promijeniti na trezoru web sučelja bytegarden.com. Želite li sada posjetiti web stranicu?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Promjena glavne lozinke</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Možete promijeniti svoju glavnu lozinku na internetskom trezoru bitwarden.com. Želite li sada posjetiti web stranicu?</value>
+    <value>Možete promijeniti svoju glavnu lozinku na internetskom trezoru bytegarden.com. Želite li sada posjetiti web stranicu?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Zatvoriti</value>
@@ -504,7 +504,7 @@
     <value>Uvoz stavki</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Možete masovno uvesti prijave sa web-trezora bitwarden.com. Želite li sada posjetiti web stranicu?</value>
+    <value>Možete masovno uvesti prijave sa web-trezora bytegarden.com. Želite li sada posjetiti web stranicu?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Brzo uvezite svoje prijave iz drugih aplikacija za upravljanje lozinkama.</value>
@@ -683,7 +683,7 @@
     <value>Prijava u dva koraka</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Prijava u dva koraka čini vaš račun sigurnijim tako što će zahtijevati da potvrdite prijavu putem drugog uređaja pomoću sigurnosnog koda, aplikacije autentifikatora, SMS porukom, pozivom ili adresom e-pošte. Prijava u dva koraka može se omogućiti na internetskom trezoru bitwarden.com. Želite li sada posjetiti web stranicu?</value>
+    <value>Prijava u dva koraka čini vaš račun sigurnijim tako što će zahtijevati da potvrdite prijavu putem drugog uređaja pomoću sigurnosnog koda, aplikacije autentifikatora, SMS porukom, pozivom ili adresom e-pošte. Prijava u dva koraka može se omogućiti na internetskom trezoru bytegarden.com. Želite li sada posjetiti web stranicu?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Otključaj s {0}</value>
@@ -970,7 +970,7 @@
     <value>Vlastito hosting okruženje</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Navedite osnovni URL Vaše lokalno hostirane bitwarden instalacije.</value>
+    <value>Navedite osnovni URL Vaše lokalno hostirane bytegarden instalacije.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>URL poslužitelja</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden allows you to share your vault with others by using an organization account. Would you like to visit the bitwarden.com website to learn more?</value>
+    <value>Bitwarden allows you to share your vault with others by using an organization account. Would you like to visit the bytegarden.com website to learn more?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Export Vault</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Logged in as {0} on {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Your vault is locked. Verify your master password to continue.</value>

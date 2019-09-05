@@ -66,9 +66,9 @@ namespace Bit.iOS.Migration
         {
             var record = new SecRecord(SecKind.GenericPassword)
             {
-                Service = "com.8bit.bitwarden",
+                Service = "com.8bit.bytegarden",
                 Account = key,
-                AccessGroup = "LTZ2PFU5D6.com.8bit.bitwarden"
+                AccessGroup = "LTZ2PFU5D6.com.8bit.bytegarden"
             };
 
             if(data != null)

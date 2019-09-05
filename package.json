@@ -1,6 +1,16 @@
 {
-  "name": "bitwarden-mobile",
+  "name": "bytegarden-mobile",
   "version": "0.0.0",
+  "keywords": [
+    "bytegarden"
+  ],
+  "author": "ByteGarden contributors",
+  "homepage": "https://gitlab.kokakiwi.net/contrib/bytewarden/web",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.kokakiwi.net/contrib/bytewarden/web"
+  },
+  "license": "GPL-3.0",
   "scripts": {
     "deploy": "gh-pages --dist dist",
     "clean:l10n": "git push origin --delete l10n_master"

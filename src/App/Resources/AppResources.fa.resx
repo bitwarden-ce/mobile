@@ -427,13 +427,13 @@
     <value>تغییر رایانامه</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>شما می‌توانید آدرس رایانامه را در نسخه وب گاوصندوق bitwarden.com تغییر دهید. می‌خواهید اکنون از سایت بازدید کنید؟</value>
+    <value>شما می‌توانید آدرس رایانامه را در نسخه وب گاوصندوق bytegarden.com تغییر دهید. می‌خواهید اکنون از سایت بازدید کنید؟</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>تغییر گذرواژه اصلی</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>شما می توانید گذرواژه اصلی خود را در bitwarden.com تغییر دهید. آیا میخواهید از سایت بازدید کنید؟</value>
+    <value>شما می توانید گذرواژه اصلی خود را در bytegarden.com تغییر دهید. آیا میخواهید از سایت بازدید کنید؟</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>بستن</value>
@@ -504,7 +504,7 @@
     <value>واردن کردن موارد</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>شما میتوانید موارد را بصورت فله ای در گاوصندوق وب bitwarden.com وارد کنید. آیا مایل به دیدن وبسایت هستید؟</value>
+    <value>شما میتوانید موارد را بصورت فله ای در گاوصندوق وب bytegarden.com وارد کنید. آیا مایل به دیدن وبسایت هستید؟</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>موارد مهم خود را سریعاً از دیگر برنامه های مدیریت رمز عبور وارد کنید.</value>
@@ -683,7 +683,7 @@
     <value>ورود دو مرحله ای</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>ورود دو مرحله‌ای باعث می شود که حساب کاربری شما با استفاده از یک دستگاه دیگر مانند کلید امنیتی، برنامه احراز هویت، پیامک، تماس تلفنی و یا رایانامه، اعتبار خود را با ایمنی بیشتر اثبات کند. ورود دو مرحله‌ای می‌تواند در bitwarden.com فعال شود. آیا می‌خواهید از سایت بازدید کنید؟</value>
+    <value>ورود دو مرحله‌ای باعث می شود که حساب کاربری شما با استفاده از یک دستگاه دیگر مانند کلید امنیتی، برنامه احراز هویت، پیامک، تماس تلفنی و یا رایانامه، اعتبار خود را با ایمنی بیشتر اثبات کند. ورود دو مرحله‌ای می‌تواند در bytegarden.com فعال شود. آیا می‌خواهید از سایت بازدید کنید؟</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>باز کردن با {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden به شما اجازه می دهد با استفاده از سازماندهی حساب، گاوصندوقهای خود را با دیگران به اشتراک بگذارید. آیا مایل به بازدید از وب سایت bitwarden.com برای کسب اطلاعات بیشتر هستید؟</value>
+    <value>Bitwarden به شما اجازه می دهد با استفاده از سازماندهی حساب، گاوصندوقهای خود را با دیگران به اشتراک بگذارید. آیا مایل به بازدید از وب سایت bytegarden.com برای کسب اطلاعات بیشتر هستید؟</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>صادر کردن گاوصندوق</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>وارد شده به عنوان {0} در {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>گاوصندوق شما فقل شد. برای ادامه گذرواژه اصلی را وارد کنید.</value>

@@ -427,13 +427,13 @@
     <value>Alterar E-mail</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Você pode alterar o seu endereço de e-mail no cofre web em bitwarden.com. Você deseja visitar o site agora?</value>
+    <value>Você pode alterar o seu endereço de e-mail no cofre web em bytegarden.com. Você deseja visitar o site agora?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Alterar Senha Mestra</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Você pode alterar a sua senha mestra no cofre web em bitwarden.com. Você deseja visitar o site agora?</value>
+    <value>Você pode alterar a sua senha mestra no cofre web em bytegarden.com. Você deseja visitar o site agora?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Fechar</value>
@@ -504,7 +504,7 @@
     <value>Importar Itens</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Você pode importar em massa os seus itens a partir do cofre web em bitwarden.com. Você deseja visitar o site agora?</value>
+    <value>Você pode importar em massa os seus itens a partir do cofre web em bytegarden.com. Você deseja visitar o site agora?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Importe rapidamente em massa os seus itens de outros aplicativos de gerenciamento de senhas.</value>
@@ -683,7 +683,7 @@
     <value>Login em Duas Etapas</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>O login em duas etapas torna a sua conta mais segura ao exigir que você verifique seu login com outro dispositivo como uma chave de segurança, aplicativo de autenticação, SMS, ligação telefônica, ou e-mail. O login em duas etapas pode ser ativado no cofre web em bitwarden.com. Você deseja visitar o site agora?</value>
+    <value>O login em duas etapas torna a sua conta mais segura ao exigir que você verifique seu login com outro dispositivo como uma chave de segurança, aplicativo de autenticação, SMS, ligação telefônica, ou e-mail. O login em duas etapas pode ser ativado no cofre web em bytegarden.com. Você deseja visitar o site agora?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Desbloquear com {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>O Bitwarden permite que você compartilhe seu cofre com outras pessoas usando uma conta da organização. Gostaria de visitar o site bitwarden.com para saber mais?</value>
+    <value>O Bitwarden permite que você compartilhe seu cofre com outras pessoas usando uma conta da organização. Gostaria de visitar o site bytegarden.com para saber mais?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Exportar Cofre</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Sessão iniciada como {0} em {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>O seu cofre está bloqueado. Verifique a sua senha mestra para continuar.</value>

@@ -126,13 +126,13 @@
 
 Diefstal van wachtwoorden is een ernstig probleem. De websites en apps die u gebruikt worden dagelijks aangevallen. Beveiligingslekken komen voor en wachtwoorden worden gestolen. Als u dezelfde wachtwoorden gebruikt voor meerdere apps en websites, kunnen hackers makkelijk toegang krijgen tot uw e-mail, bankgegevens en andere belangrijke accounts.
 
-Beveiligingsexperts bevelen aan dat u een verschillend, willekeurig gegenereerd wachtwoord gebruikt voor ieder account. Maar hoe beheer je al die wachtwoorden? bitwarden maakt het voor u gemakkelijk om ze te genereren, op te slaan en te gebruiken.
+Beveiligingsexperts bevelen aan dat u een verschillend, willekeurig gegenereerd wachtwoord gebruikt voor ieder account. Maar hoe beheer je al die wachtwoorden? bytegarden maakt het voor u gemakkelijk om ze te genereren, op te slaan en te gebruiken.
 
 Bitwarden slaat al uw logins op in een versleutelde kluis die gesynchroniseerd wordt tussen al uw apparaten. Omdat het volledig versleuteld is voor het zelfs maar het internet opgaat, heeft alleen u toegang tot uw gegevens. Zelfs het Bitwarden-team kan niets uitlezen, zelfs al zouden we dat willen. Uw gegevens zijn beveiligd met AES-256 bit encryptie, salted hashing en PBKDF2 SHA-256.</value>
     <comment>Max 4000 characters</comment>
   </data>
   <data name="Keywords" xml:space="preserve">
-    <value>bitwarden,bit warden,8bit,wachtwoord,login,gratis wachtwoordbeheerder,wachtwoordbeheerder,inlogbeheerder</value>
+    <value>bytegarden,bit warden,8bit,wachtwoord,login,gratis wachtwoordbeheerder,wachtwoordbeheerder,inlogbeheerder</value>
     <comment>Max 100 characters</comment>
   </data>
   <data name="Screenshot1" xml:space="preserve">

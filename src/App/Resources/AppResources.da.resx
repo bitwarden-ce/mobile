@@ -427,13 +427,13 @@
     <value>Skift e-mail</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Du kan skifte din e-mailadresse i bitwarden.com web-boksen. Vil du besøge hjemmesiden nu?</value>
+    <value>Du kan skifte din e-mailadresse i bytegarden.com web-boksen. Vil du besøge hjemmesiden nu?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Skift hovedadgangskode</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Du kan skifte din hovedadgangskode i bitwarden.com web-boksen. Vil du besøge hjemmesiden nu?</value>
+    <value>Du kan skifte din hovedadgangskode i bytegarden.com web-boksen. Vil du besøge hjemmesiden nu?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Luk</value>
@@ -504,7 +504,7 @@
     <value>Importér elementer</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Du kan masseimportere elementer i din web-boks på bitwarden.com. Vil du besøge hjemmesiden nu?</value>
+    <value>Du kan masseimportere elementer i din web-boks på bytegarden.com. Vil du besøge hjemmesiden nu?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Masseimportér hurtigt dine elementer fra andre adgangskodehåndterings-apps.</value>
@@ -683,7 +683,7 @@
     <value>To-trins login</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>To-trins login øger din kontosikkerhed, ved at kræve at du verificerer dit login med en anden enhed, såsom en sikkerhedsnøgle, autentificerings app, SMS, telefonopkald eller e-mail. To-trins login kan aktiveres i bitwarden.com web-boksen. Vil du besøge hjemmesiden nu?</value>
+    <value>To-trins login øger din kontosikkerhed, ved at kræve at du verificerer dit login med en anden enhed, såsom en sikkerhedsnøgle, autentificerings app, SMS, telefonopkald eller e-mail. To-trins login kan aktiveres i bytegarden.com web-boksen. Vil du besøge hjemmesiden nu?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Lås op med {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden giver dig mulighed for at dele din boks med andre ved at bruge en organisationskonto. Vil du besøge webstedet bitwarden.com for at få mere at vide?</value>
+    <value>Bitwarden giver dig mulighed for at dele din boks med andre ved at bruge en organisationskonto. Vil du besøge webstedet bytegarden.com for at få mere at vide?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Eksportér boks</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Logget ind som {0} på {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Din boks er låst. Bekræft din hovedadgangskode for at fortsætte.</value>

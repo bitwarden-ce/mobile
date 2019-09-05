@@ -76,7 +76,7 @@ namespace Bit.App.Pages
                     AppResources.FeatureUnavailable, AppResources.LearnMore, AppResources.Cancel);
                 if(confirmed)
                 {
-                    _platformUtilsService.LaunchUri("https://help.bitwarden.com/article/update-encryption-key/");
+                    _platformUtilsService.LaunchUri("https://help.bytegarden.com/article/update-encryption-key/");
                 }
             }
         }

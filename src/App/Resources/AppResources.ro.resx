@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>bitwarden</value>
+    <value>bytegarden</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -427,13 +427,13 @@
     <value>Schimbați adresa de e-mail</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Puteţi modifica adresa de e-mail pe site-ul web bitwarden.com. Doriţi să vizitaţi site-ul acum?</value>
+    <value>Puteţi modifica adresa de e-mail pe site-ul web bytegarden.com. Doriţi să vizitaţi site-ul acum?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Schimbaţi parola principală</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Puteţi modifica parola principală pe site-ul web bitwarden.com. Doriţi să vizitaţi site-ul acum?</value>
+    <value>Puteţi modifica parola principală pe site-ul web bytegarden.com. Doriţi să vizitaţi site-ul acum?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Închideţi</value>
@@ -504,7 +504,7 @@
     <value>Import articole</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Puteți să importați datele de conectare din seiful web bitwarden.com. Doriți să vizitați saitul acum?</value>
+    <value>Puteți să importați datele de conectare din seiful web bytegarden.com. Doriți să vizitați saitul acum?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Import rapid al datelor de conectare din alte aplicații de gestionare a parolelor.</value>
@@ -683,7 +683,7 @@
     <value>Autentificare în două etape</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Autentificarea în două etape face ca contul dvs. să fie mai sigur, solicitând să introduceți un cod de securitate dintr-o aplicație de autentificare ori de câte ori vă conectați. Autentificarea în două etape poate fi activată în seiful web bitwarden.com. Doriți să vizitați site-ul acum?</value>
+    <value>Autentificarea în două etape face ca contul dvs. să fie mai sigur, solicitând să introduceți un cod de securitate dintr-o aplicație de autentificare ori de câte ori vă conectați. Autentificarea în două etape poate fi activată în seiful web bytegarden.com. Doriți să vizitați site-ul acum?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Deblocare cu {0}</value>
@@ -1434,7 +1434,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="ShareVaultConfirmation" xml:space="preserve">
-    <value>Bitwarden vă permite să vă împărtășiți seiful cu alte persoane utilizând un cont pentru organizații. Doriți să vizitați site-ul bitwarden.com pentru a afla mai multe?</value>
+    <value>Bitwarden vă permite să vă împărtășiți seiful cu alte persoane utilizând un cont pentru organizații. Doriți să vizitați site-ul bytegarden.com pentru a afla mai multe?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Export seif</value>
@@ -1459,7 +1459,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Autentificat ca {0} în {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on bytegarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Seiful dvs. este blocat. Verificaţi parola principală pentru a continua.</value>
